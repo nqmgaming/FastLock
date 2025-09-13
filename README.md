@@ -9,3 +9,7 @@
       <td><img src="Sileo/screenshot1.jpg" alt="Screenshot 1" /></td>
    </tr>
 </table>
+
+## Installation
+- Install from [My repo](https://dvntm0.github.io/#jb)
+- Download from the [Releases page](https://github.com/dayanch96/FastLock/releases)
