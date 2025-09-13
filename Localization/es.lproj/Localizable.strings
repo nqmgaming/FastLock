@@ -1,0 +1,12 @@
+"Main" = "Principal";
+"Enable" = "Habilitar";
+"HapticFeedback" = "Respuesta Háptica";
+"LowPowerMode" = "Habilitar modo de bajo consumo";
+"Activation" = "Activación";
+"SingleTap" = "Pulsación simple";
+"DoubleTap" = "Pulsación doble";
+"TwoFingerTap" = "Pulsación con dos dedos";
+"TwoFingerDoubleTap" = "Pulsación doble con dos dedos";
+"ActivationFooter" = "Los cambios del método de activación tendrán efecto tras el próximo desbloqueo del dispositivo";
+"Developer" = "Desarrollador";
+"TapHere" = "Pulsa aquí"
