@@ -1,0 +1,12 @@
+"Main" = "Основные";
+"Enable" = "Активировать FastLock";
+"HapticFeedback" = "Тактильный отклик";
+"LowPowerMode" = "Режим энергосбережения";
+"Activation" = "Активации";
+"SingleTap" = "Одиночный тап";
+"DoubleTap" = "Двойной тап";
+"TwoFingerTap" = "Тап двумя пальцами";
+"TwoFingerDoubleTap" = "Двойной тап двумя пальцами";
+"ActivationFooter" = "Метод активации будет применен после первой разблокировки устройства";
+"Developer" = "Разработчик";
+"TapHere" = "Нажмите сюда";

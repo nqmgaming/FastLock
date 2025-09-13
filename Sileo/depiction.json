@@ -1,0 +1,92 @@
+  {
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/header.png",
+    "class": "DepictionTabView",
+    "tintColor": "#F8D84E",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "FastLock",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Lock your screen using gestures on SpringBoard"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/dayanch96/FastLock/refs/heads/main/Sileo/screenshot1.jpg"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "dvntm",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        },
+        {
+            "views": [
+                {
+                    "text": "Sep 13, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 0.0.1"
+                },
+                {
+                    "markdown": "- Initial release",
+                    "class": "DepictionMarkdownView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Changelog"
+        },
+        {
+            "views": [
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "X (Twitter)",
+                    "action": "https://x.com/dayanch96"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "My Patreon",
+                    "action": "https://patreon.com/dayanch96"
+                },
+                {
+                    "class": "DepictionTableButtonView",
+                    "title": "Buy me a coffee",
+                    "action": "https://buymeacoffee.com/dayanch96"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Support"
+        }
+    ]
+}

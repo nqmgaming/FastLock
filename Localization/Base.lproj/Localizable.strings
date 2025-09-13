@@ -1,0 +1,12 @@
+"Main" = "Main";
+"Enable" = "Enable";
+"HapticFeedback" = "Haptic feedback";
+"LowPowerMode" = "Enable low power mode";
+"Activation" = "Activation";
+"SingleTap" = "Single tap";
+"DoubleTap" = "Double tap";
+"TwoFingerTap" = "Two finger tap";
+"TwoFingerDoubleTap" = "Two finger double tap";
+"ActivationFooter" = "The activation method changes will take effect upon the next device unlock";
+"Developer" = "Developer";
+"TapHere" = "Tap here";
