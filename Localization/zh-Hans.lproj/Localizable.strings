@@ -1,0 +1,12 @@
+"Main" = "主要功能";
+"Enable" = "功能启用";
+"HapticFeedback" = "触感反馈";
+"LowPowerMode" = "启用低电量模式";
+"Activation" = "激活手势";
+"SingleTap" = "单击";
+"DoubleTap" = "双击";
+"TwoFingerTap" = "双指单击";
+"TwoFingerDoubleTap" = "双指双击";
+"ActivationFooter" = "激活方式的更改将在下次设备解锁时生效";
+"Developer" = "开发者";
+"TapHere" = "点击此处";
