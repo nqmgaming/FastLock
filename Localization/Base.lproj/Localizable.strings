@@ -1,5 +1,8 @@
 "Main" = "Main";
-"Enable" = "Enable";
+"Enable" = "Enable tweak";
+
+"LockOptions" = "Lock settings";
+"EnableFastLock" = "Enable fast lock";
 "HapticFeedback" = "Haptic feedback";
 "LowPowerMode" = "Enable low power mode";
 "Activation" = "Activation";
@@ -7,6 +10,19 @@
 "DoubleTap" = "Double tap";
 "TwoFingerTap" = "Two finger tap";
 "TwoFingerDoubleTap" = "Two finger double tap";
-"ActivationFooter" = "The activation method changes will take effect upon the next device unlock";
+"LockSound" = "Lock sound";
+"Default" = "Default";
+
+"UnlockOptions" = "Unlock settings";
+"EnableAutoUnlock" = "Enable auto-unlock";
+"DisableIfNotifs" = "Disable if notifications";
+"DisableIfMusic" = "Disable if playing music";
+"DisableIfLPM" = "Disable in low power mode";
+"DisableIfFlashlight" = "Disable if flashlight enabled";
+"UnlockSound" = "Unlock sound";
+"Disabled" = "Disabled";
+"UnlockFooter" = "Auto-unlock cancellation in Low Power Mode applies only when LPM is enabled manually, not by FastLock. This is by design.";
+
+"EnableUnlockDelay" = "Delay unlock (sec.)";
+
 "Developer" = "Developer";
-"TapHere" = "Tap here";

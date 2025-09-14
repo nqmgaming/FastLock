@@ -1,5 +1,8 @@
 "Main" = "主要功能";
-"Enable" = "功能启用";
+"Enable" = "Enable tweak";
+
+"LockOptions" = "Lock settings";
+"EnableFastLock" = "Enable fast lock";
 "HapticFeedback" = "触感反馈";
 "LowPowerMode" = "启用低电量模式";
 "Activation" = "激活手势";
@@ -7,6 +10,19 @@
 "DoubleTap" = "双击";
 "TwoFingerTap" = "双指单击";
 "TwoFingerDoubleTap" = "双指双击";
-"ActivationFooter" = "激活方式的更改将在下次设备解锁时生效";
+"LockSound" = "Lock sound";
+"Default" = "Default";
+
+"UnlockOptions" = "Unlock settings";
+"EnableAutoUnlock" = "Enable auto-unlock";
+"DisableIfNotifs" = "Disable if notifications";
+"DisableIfMusic" = "Disable if playing music";
+"DisableIfLPM" = "Disable in low power mode";
+"DisableIfFlashlight" = "Disable if flashlight enabled";
+"UnlockSound" = "Unlock sound";
+"Disabled" = "Disabled";
+"UnlockFooter" = "Auto-unlock cancellation in Low Power Mode applies only when LPM is enabled manually, not by FastLock. This is by design.";
+
+"EnableUnlockDelay" = "Delay unlock (sec.)";
+
 "Developer" = "开发者";
-"TapHere" = "点击此处";

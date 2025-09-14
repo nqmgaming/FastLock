@@ -1,5 +1,8 @@
 "Main" = "Principal";
-"Enable" = "Habilitar";
+"Enable" = "Enable tweak";
+
+"LockOptions" = "Lock settings";
+"EnableFastLock" = "Enable fast lock";
 "HapticFeedback" = "Respuesta Háptica";
 "LowPowerMode" = "Habilitar modo de bajo consumo";
 "Activation" = "Activación";
@@ -7,6 +10,19 @@
 "DoubleTap" = "Pulsación doble";
 "TwoFingerTap" = "Pulsación con dos dedos";
 "TwoFingerDoubleTap" = "Pulsación doble con dos dedos";
-"ActivationFooter" = "Los cambios del método de activación tendrán efecto tras el próximo desbloqueo del dispositivo";
+"LockSound" = "Lock sound";
+"Default" = "Default";
+
+"UnlockOptions" = "Unlock settings";
+"EnableAutoUnlock" = "Enable auto-unlock";
+"DisableIfNotifs" = "Disable if notifications";
+"DisableIfMusic" = "Disable if playing music";
+"DisableIfLPM" = "Disable in low power mode";
+"DisableIfFlashlight" = "Disable if flashlight enabled";
+"UnlockSound" = "Unlock sound";
+"Disabled" = "Disabled";
+"UnlockFooter" = "Auto-unlock cancellation in Low Power Mode applies only when LPM is enabled manually, not by FastLock. This is by design.";
+
+"EnableUnlockDelay" = "Delay unlock (sec.)";
+
 "Developer" = "Desarrollador";
-"TapHere" = "Pulsa aquí"

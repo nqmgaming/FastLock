@@ -33,6 +33,13 @@
                     "itemCornerRadius": 6
                 },
                 {
+                    "markdown": "### Features:\n- Fast lock by tapping on the Home screen background\n- Haptic feedback on lock/unlock\n- Auto-enable Low Power Mode on lock\n- Custom lock screen sound\n- Auto-unlock via Face ID\n- Conditions to cancel auto-unlock\n- Custom unlock sound\n\n*FastLock can be configured in iOS Preferences*",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
                     "class": "DepictionSeparatorView"
                 },
                 {
@@ -54,6 +61,15 @@
         },
         {
             "views": [
+                {
+                    "text": "Sep 14, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 1.0"
+                },
+                {
+                    "markdown": "- Added option to change the lock screen sound\n- Added auto-unlock feature\n- Added settings for auto-unlock conditions\n- Added option to set unlock sound\n- Added Spanish localization\n- Added Simplified Chinese localization\n- Added Vietnamese localization\n- Improved gesture handling",
+                    "class": "DepictionMarkdownView"
+                },
                 {
                     "text": "Sep 13, 2025",
                     "class": "DepictionTableTextView",
