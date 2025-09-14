@@ -1,28 +1,28 @@
 "Main" = "Chính";
-"Enable" = "Enable tweak";
+"Enable" = "Bật/Tắt Tweaks";
 
-"LockOptions" = "Lock settings";
-"EnableFastLock" = "Enable fast lock";
+"LockOptions" = "Cài đặt khóa";
+"EnableFastLock" = "Bật khóa nhanh";
 "HapticFeedback" = "Phản hồi rung";
-"LowPowerMode" = "Bật chế độ pin yếu";
+"LowPowerMode" = "Bật chế độ tiết kiệm pin";
 "Activation" = "Cách kích hoạt";
 "SingleTap" = "Chạm một lần";
 "DoubleTap" = "Chạm hai lần";
 "TwoFingerTap" = "Chạm bằng hai ngón tay";
 "TwoFingerDoubleTap" = "Chạm đúp bằng hai ngón tay";
-"LockSound" = "Lock sound";
-"Default" = "Default";
+"LockSound" = "Âm thanh khóa";
+"Default" = "Mặc định";
 
-"UnlockOptions" = "Unlock settings";
-"EnableAutoUnlock" = "Enable auto-unlock";
-"DisableIfNotifs" = "Disable if notifications";
-"DisableIfMusic" = "Disable if playing music";
-"DisableIfLPM" = "Disable in low power mode";
-"DisableIfFlashlight" = "Disable if flashlight enabled";
-"UnlockSound" = "Unlock sound";
-"Disabled" = "Disabled";
-"UnlockFooter" = "Auto-unlock cancellation in Low Power Mode applies only when LPM is enabled manually, not by FastLock. This is by design.";
+"UnlockOptions" = "Cài đặt mở khóa";
+"EnableAutoUnlock" = "Bật mở khóa tự động";
+"DisableIfNotifs" = "Tắt nếu có thông báo";
+"DisableIfMusic" = "Tắt nếu đang phát nhạc";
+"DisableIfLPM" = "Tắt trong chế độ tiết kiệm pin";
+"DisableIfFlashlight" = "Tắt nếu Flash được bật";
+"UnlockSound" = "Âm thanh mở khóa";
+"Disabled" = "Đã tắt";
+"UnlockFooter" = "Việc hủy bỏ mở khóa tự động trong chế độ tiết kiệm pin chỉ áp dụng khi LPM được bật thủ công, không phải bởi FastLock. Đây là thiết kế.";
 
-"EnableUnlockDelay" = "Delay unlock (sec.)";
+"EnableUnlockDelay" = "Độ trễ mở khóa (giây)";
 
 "Developer" = "Nhà phát triển";
